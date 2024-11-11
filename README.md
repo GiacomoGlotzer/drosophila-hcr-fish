@@ -19,15 +19,11 @@ For Rory Coleman in Vanessa Ruta's lab
 
 Download and install [ncbi-blast](https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/)
 
-## D mel genome and transcriptome 
-
+## D mel 
 **Genome**
-https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/
-I downloaded the soft-masked assembly sequence. `dm6.fa.gz`
-
+https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/dm6.fa.gz
 **Transcriptome** 
-https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/genes/
-I downloaded the Ref-Seq transcriptome. `dm6.ncbiRefSeq.gtf.gz`
+https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/genes/dm6.ncbiRefSeq.gtf.gz
 
 
 
