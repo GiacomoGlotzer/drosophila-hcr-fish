@@ -5,7 +5,6 @@ Contributors: Giacomo Glotzer
 For Rory Coleman in Vanessa Ruta's lab 
 
 ### Requirements 
->>>>>>> origin/main
 
 - pygenomeviz 
 - numpy 
@@ -29,4 +28,7 @@ https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/genes/dm6.ncbiRefSeq.gtf.
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
