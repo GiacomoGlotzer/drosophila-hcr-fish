@@ -1,8 +1,8 @@
 ## HCR FISH Probe Design for Drosophila 
 
-Contributors: Giacomo Glotzer 
+This platform, built primarily in Jupyter notebooks with supporting custom Python packages, enables users to design custom HCR FISH probes tailored for multiple Drosophila species.
 
-For Rory Coleman in Vanessa Ruta's lab 
+Contributors: Giacomo Glotzer 
 
 ### Requirements 
 
@@ -16,8 +16,12 @@ For Rory Coleman in Vanessa Ruta's lab
 - pickle 
 - tqdm 
 
+```
+pip install pygenomeviz numpy biopython pandas matplotlib ipykernel ipython pickle tqdm
+```
 
 Download and install [ncbi-blast](https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/)
+
 
 ## D mel 
 **Genome**
