@@ -26,9 +26,3 @@ https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/dm6.fa.gz
 https://hgdownload.soe.ucsc.edu/goldenPath/dm6/bigZips/genes/dm6.ncbiRefSeq.gtf.gz
 
 
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
